@@ -17,7 +17,7 @@ Support is a Windows machine that features an SMB share that allows anonymous au
 
 <br>
 
-<img src="./imgs/attackpath.png" width="900"><rb>
+<img src="./attackpath.png" width="900"><rb>
 
 ---
 <br>
