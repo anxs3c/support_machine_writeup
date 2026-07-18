@@ -15,6 +15,10 @@ Support is a Windows machine that features an SMB share that allows anonymous au
 **Phase 7** - `RBCD Attack and Privilege Escalation`<br>
 **Phase 8** - `Domain Compromise`<br>
 
+<br>
+
+<img src="./imgs/attackpath.png" width="900"><rb>
+
 ---
 <br>
 
